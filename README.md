@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an ML fitness tracker processing project, fine-tuning an expense tracker, and doing backend development for a fitness social media tech start-up(syncmove.co.uk)!<br>👯 I’m looking to collaborate on open-source AI projects and learn more about ML applications<br>🤝 I’m looking for help with creating my own tech start-up to solve a real-world problem... eventually evolving into an income stream<br>🌱 I’m currently learning full-stack development and ML basics<br>💬 Ask me about opportunities for work and research<br>⚡ Fun fact I love learning foreign languages and musical instruments
+🔭 I’m currently working on a CV deception detector project, fine-tuning an expense tracker, and doing full-stack development for a fitness social media tech start-up(syncmove.co.uk and available on iOS/ Android)!<br>👯 I’m looking to collaborate on open-source AI projects and learn more about ML applications<br>🤝 I’m looking for help with creating my own tech start-up to solve a real-world problem... eventually evolving into an income stream<br>🌱 I’m currently learning full-stack development and ML basics<br>💬 Ask me about opportunities for work and research<br>⚡ Fun fact I love learning foreign languages and musical instruments
 
 
 ## 🌐 Socials:
